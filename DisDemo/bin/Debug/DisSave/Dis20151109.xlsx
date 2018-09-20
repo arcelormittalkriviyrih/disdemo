@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+ <Author>Mrluo735</Author>
+  <Created>2015-28-09T17:11:SSZ</Created>
+ <Company>Mrluo735</Company>
+ <Version>11.6408</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8955</WindowHeight>
+  <WindowWidth>11355</WindowWidth>
+  <WindowTopX>480</WindowTopX>
+  <WindowTopY>15</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+<Styles>
+<Style ss:ID="Default" ss:Name="Normal">
+  <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+  <Borders>
+      <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+      <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+      <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/> 
+      <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+  </Borders>
+<Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  <Interior/>
+  <Protection/>
+</Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+  </Style>
+<Style ss:ID="BoldColumn">
+  <Font ss:FontName="宋体" ss:Bold="1"/>
+  <Borders>
+      <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+      <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+      <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+      <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+  </Borders>
+</Style>
+<Style ss:ID="StringLiteral">
+  <NumberFormat ss:Format="@"/>
+</Style>
+<Style ss:ID="Decimal">
+  <NumberFormat ss:Format="0.00"/>
+</Style>
+<Style ss:ID="Integer">
+  <NumberFormat ss:Format="0"/>
+</Style>
+<Style ss:ID="DateLiteral">
+  <NumberFormat ss:Format="yyyy/mm/dd;@"/>
+</Style>
+ </Styles>
+<Worksheet ss:Name="Dis">
+    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="6" x:FullColumns="1"
+   x:FullRows="1">
+<Column ss:Index="1" ss:AutoFitWidth="1" ss:Width="40"/> 
+<Column ss:Index="2" ss:AutoFitWidth="1" ss:Width="260"/> 
+<Column ss:Index="3" ss:AutoFitWidth="1" ss:Width="60"/> 
+<Column ss:Index="4" ss:AutoFitWidth="1" ss:Width="60"/> 
+<Column ss:Index="5" ss:AutoFitWidth="1" ss:Width="60"/> 
+<Row ss:AutoFitHeight="0" ss:Height="28.5">
+<Cell ss:StyleID="s21"><Data ss:Type="String">序号</Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="String">EPC</Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="String">次数</Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="String">天线号</Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="String">设备号</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">1</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">E2 00 34 12 01 30 FC 00 03 39 CB 5B</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">8</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">0</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">0</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">2</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">E2 00 30 98 41 10 01 20 24 00 1E CD</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">7</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">0</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">0</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">3</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">E2 00 34 12 72 18 FD 00 21 50 36 F9</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">1</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">177</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">0</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">4</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">E2 00 10 18 74 13 02 12 00 00 00 07</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">5</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">0</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">0</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">5</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">AB CD 5A A5 EF AA FF FF AB CD EF AA</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">4</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">0</Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String">0</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<Panes>
+<Pane>
+  <Number>3</Number>
+  <ActiveRow>1</ActiveRow>
+</Pane>
+</Panes>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>
